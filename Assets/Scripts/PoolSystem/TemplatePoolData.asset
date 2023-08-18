@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0260aa7da640c5d4dbec102c7fb8e2ba, type: 3}
+  m_Name: TemplatePoolData
+  m_EditorClassIdentifier: 
+  pools:
+  - pooledObjects: []
+    prefab: {fileID: 2524647589136390498, guid: c2b94641bc7aeca4e853ea530837b646,
+      type: 3}
+    category: 0
+    startingParent: {fileID: 0}
+    startingQuantity: 10
+  - pooledObjects: []
+    prefab: {fileID: 481837513526596847, guid: 01357579e034e4445811f49f9a558cad, type: 3}
+    category: 0
+    startingParent: {fileID: 0}
+    startingQuantity: 10
+  - pooledObjects: []
+    prefab: {fileID: 3014114901563063179, guid: f80e217c22615a14595f41f276dc4262,
+      type: 3}
+    category: 0
+    startingParent: {fileID: 0}
+    startingQuantity: 10
+  - pooledObjects: []
+    prefab: {fileID: 5469660542891660683, guid: 7d0f1a1b0c1586445a4ecc50e9de9f4e,
+      type: 3}
+    category: 0
+    startingParent: {fileID: 0}
+    startingQuantity: 10
+  - pooledObjects: []
+    prefab: {fileID: 8559188851583285511, guid: 9bb72b433184e4c43bb15344db5b0a09,
+      type: 3}
+    category: 1
+    startingParent: {fileID: 0}
+    startingQuantity: 10
+  - pooledObjects: []
+    prefab: {fileID: 877277062346520454, guid: 5c64bc70f1106cd4fb63c00f6f46b9d3, type: 3}
+    category: 2
+    startingParent: {fileID: 0}
+    startingQuantity: 10
